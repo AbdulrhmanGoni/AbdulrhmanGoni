@@ -1,7 +1,7 @@
 # Hello 👋, I'm Abdulrhman Goni
 
-Self-motivated full-stack web developer with a focus on back-end, <br>
-Passionate about everything in software development field in general. <br>
+Full-Stack Web Developer with a focus on back-end, <br>
+Self-motivated and passionate about everything in software development field in general. <br>
 I continuously seek to expand my skills and stay updated with the latest industry trends
 
 # 💻 Tech Stack:
