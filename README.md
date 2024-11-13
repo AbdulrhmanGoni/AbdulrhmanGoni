@@ -1,6 +1,6 @@
 # Hello 👋, I'm Abdulrhman Goni
 
-Full-Stack Web Developer with a focus on back-end, <br>
+Full-Stack (MERN) Web Developer with a focus on back-end, <br>
 Self-motivated and passionate about everything in software development field in general. <br>
 I continuously seek to expand my skills and stay updated with the latest industry trends
 
