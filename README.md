@@ -9,27 +9,27 @@ trends
 
 ### **Languages**
 
-![Languages](https://skillicons.dev/icons?i=javascript,ts&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,ts&theme=dark)
 
 ### **Back End**
 
-![Back End Tech Stack](https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,express,hono&theme=dark)
+![Back End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,deno,nestjs,express,hono&theme=dark)
 
 ### **Tools & Technologies**
 
-![Tools and Technologies](https://skillicons.dev/icons?i=docker,nginx,git,jest,gql&theme=dark)
+![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,git,jest,gql&theme=dark)
 
 ### **Databases**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,redis,postgresql,elasticsearch&theme=dark)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,postgresql,elasticsearch&theme=dark)
 
 ### **Front End**
 
-![Front End Tech Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,rollupjs,vite&theme=dark)
+![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,rollupjs,vite,skeletonui&theme=dark)
 
 ### **CI & CD**
 
-![CI & CD](https://skillicons.dev/icons?i=githubactions&theme=dark)
+![CI & CD](https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark)
 
 # 📊 GitHub Stats:
 
