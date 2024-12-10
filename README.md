@@ -1,21 +1,34 @@
 # Hello 👋, I'm Abdulrhman Goni
 
-Full-Stack (MERN) Web Developer with a focus on back-end, <br>
-Self-motivated and passionate about everything in software development field in general. <br>
-I continuously seek to expand my skills and stay updated with the latest industry trends
+Full-Stack (MERN) Web Developer with a focus on back-end, <br> Self-motivated
+and passionate about everything in software development field in general. <br> I
+continuously seek to expand my skills and stay updated with the latest industry
+trends
 
 # 💻 Tech Stack:
+
 ### **Languages**
+
 ![Languages](https://skillicons.dev/icons?i=javascript,ts&theme=dark)
+
 ### **Back End**
-![Back End Tech Stack](https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,express&theme=dark)
+
+![Back End Tech Stack](https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,express,hono&theme=dark)
+
 ### **Tools & Technologies**
+
 ![Tools and Technologies](https://skillicons.dev/icons?i=docker,nginx,git,jest,gql&theme=dark)
+
 ### **Databases**
+
 ![Databases](https://skillicons.dev/icons?i=mongodb,redis,postgresql,elasticsearch&theme=dark)
+
 ### **Front End**
+
 ![Front End Tech Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,rollupjs,vite&theme=dark)
+
 ### **CI & CD**
+
 ![CI & CD](https://skillicons.dev/icons?i=githubactions&theme=dark)
 
 # 📊 GitHub Stats:
