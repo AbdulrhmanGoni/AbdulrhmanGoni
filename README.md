@@ -25,7 +25,7 @@ trends
 
 ### **Front End**
 
-![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,rollupjs,vite,skeletonui&theme=dark)
+![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,svelte,rollupjs,vite,skeletonui&theme=dark)
 
 ### **CI & CD**
 
