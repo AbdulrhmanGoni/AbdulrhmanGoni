@@ -17,15 +17,15 @@ trends
 
 ### **Tools & Technologies**
 
-![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,git,jest,gql&theme=dark)
+![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,git,jest,gql,ollama&theme=dark)
 
 ### **Databases**
 
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,postgresql,elasticsearch&theme=dark)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,postgresql,elasticsearch,qdrant&theme=dark)
 
 ### **Front End**
 
-![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,svelte,rollupjs,vite,skeletonui&theme=dark)
+![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,svelte,rollupjs,vite,skeletonui,shadcn&theme=dark)
 
 ### **CI & CD**
 
