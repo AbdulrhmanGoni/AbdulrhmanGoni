@@ -24,7 +24,7 @@ Engineer who contributes to shaping the future of the IT industry
 
 ### **Databases**
 
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,postgresql,elasticsearch,qdrant&theme=dark)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,qdrant&theme=dark)
 
 ### **Tools & Technologies**
 
