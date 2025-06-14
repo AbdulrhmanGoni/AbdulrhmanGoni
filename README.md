@@ -1,16 +1,11 @@
 # Hello 👋, I'm Abdulrhman Goni
 
-Full-Stack web developer with a focus on back-end, Self-motivated and passionate
-about software engineering. <br>
+**Full-Stack web developer with a focus on back-end** <br>
 
 I have experience in building web applications and servers using the
-cutting-edge web technologies in the world of JavaScript & TypeScript languages
-with more focus on Backend development using Node, Bun and Deno runtime
-environments and many modern frameworks, libraries and tools built around these
-environments
-
-I continuously seek to expand my skills and aspire to become a leading Software
-Engineer who contributes to shaping the future of the IT industry
+cutting-edge web technologies in the world of JavaScript & TypeScript with more
+focus on Backend development using Node, Bun and Deno runtime environments and
+many modern frameworks, libraries and tools built around these environments
 
 # 💻 Tech Stack:
 
