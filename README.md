@@ -9,25 +9,31 @@ many modern frameworks, libraries and tools built around these environments
 
 # 💻 Tech Stack:
 
+> [!IMPORTANT]
+> I don’t claim to have mastered everything I’m about to mention here. But I can
+> say that I’ve learned and used these technologies enough in my projects to
+> confidently participate in projects involving them or other related
+> technologies that share similar fundamentals and concepts.
+
 ### **Languages**
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,ts&theme=dark)
 
 ### **Back End**
 
-![Back End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,deno,nestjs,express,hono&theme=dark)
+![Back End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,deno,nestjs,express,hono,nginx&theme=dark)
 
 ### **Databases**
 
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,qdrant&theme=dark)
 
-### **Tools & Technologies**
-
-![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,git,jest,gql,ollama&theme=dark)
-
 ### **Front End**
 
 ![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,svelte,rollupjs,vite,skeletonui,shadcn&theme=dark)
+
+### **Other Tools & Technologies**
+
+![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,git,jest,gql,ollama&theme=dark)
 
 ### **CI & CD**
 
