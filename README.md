@@ -2,10 +2,7 @@
 
 **Full-Stack web developer with a focus on back-end** <br>
 
-I have experience in building web applications and servers using the
-cutting-edge web technologies in the world of JavaScript & TypeScript with more
-focus on Backend development using Node, Bun and Deno runtime environments and
-many modern frameworks, libraries and tools built around these environments
+Building back-end systems and web applications using modern web technologies with JavaScript and TypeScript
 
 # 💻 Tech Stack:
 
