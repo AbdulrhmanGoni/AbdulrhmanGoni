@@ -12,10 +12,6 @@ Building back-end systems and web applications using modern web technologies wit
 > confidently participate in projects involving them or other related
 > technologies that share similar fundamentals and concepts.
 
-### **Languages**
-
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,ts&theme=dark)
-
 ### **Back End**
 
 ![Back End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,deno,nestjs,express,hono,nginx&theme=dark)
