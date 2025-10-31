@@ -2,7 +2,8 @@
 
 **Full-Stack web developer with a focus on back-end** <br>
 
-Building back-end systems and web applications using modern web technologies with JavaScript and TypeScript
+I build web servers and applications using JavaScript\TypeScript and many modern frameworks, libraries and tools built around them.
+Eager to learn new things and grow in the world of software engineering
 
 # 💻 Tech Stack:
 
