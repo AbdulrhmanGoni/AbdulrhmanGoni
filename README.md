@@ -22,11 +22,11 @@ Building back-end systems and web applications using modern web technologies wit
 
 ### **Front End**
 
-![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,svelte,rollupjs,vite,skeletonui,shadcn&theme=dark)
+![Front End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,svelte,vite,shadcn&theme=dark)
 
 ### **Other Tools & Technologies**
 
-![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,git,jest,gql,ollama&theme=dark)
+![Tools and Technologies](https://go-skill-icons.vercel.app/api/icons?i=docker,jest,gql,ollama&theme=dark)
 
 ### **CI & CD**
 
