@@ -15,7 +15,7 @@ Eager to learn new things and grow in the world of software engineering
 
 ### **Back End**
 
-![Back End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,deno,nestjs,express,hono,nginx&theme=dark)
+![Back End Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,deno,go,express,hono,nestjs,nginx&theme=dark)
 
 ### **Databases**
 
