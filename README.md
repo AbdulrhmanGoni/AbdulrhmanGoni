@@ -1,17 +1,19 @@
-# Hello 👋, I'm Abdulrhman Goni
+# Hello 👋 I'm Abdulrhman Goni
 
-**Full-Stack web developer with a focus on back-end** <br>
+**Full-Stack web developer with a focus on back-end**
 
-I build web servers and applications using JavaScript\TypeScript and many modern frameworks, libraries and tools built around them.
-Eager to learn new things and grow in the world of software engineering
+I mainly work with **JavaScript/TypeScript**, and exploring **Go** lang.<br/>
+I build web servers, apps, APIs and developer tools.<br/>
+I don’t believe in sticking to one language or technology forever,<br/>
+Driven by curiosity, I enjoy exploring and learning new tools, languages, ideas, and approaches.<br/>
+Always ready to adopt new tech stacks whenever the problems I am trying to solve require it.
 
 # 💻 Tech Stack:
 
 > [!IMPORTANT]
 > I don’t claim to have mastered everything I’m about to mention here. But I can
-> say that I’ve learned and used these technologies enough in my projects to
-> confidently participate in projects involving them or other related
-> technologies that share similar fundamentals and concepts.
+> say that I’ve learned and used them enough to be able to confidently participate in projects 
+> involving them or any other related technologies that share similar fundamentals and concepts.
 
 ### **Back End**
 
