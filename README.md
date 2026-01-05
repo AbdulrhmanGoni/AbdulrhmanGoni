@@ -33,4 +33,4 @@ Always ready to adopt new tech stacks whenever the problems I am trying to solve
 
 ### **CI & CD**
 
-![CI & CD](https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark)"new test value"
+![CI & CD](https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark)
