@@ -2,7 +2,7 @@
 
 **Full-Stack web developer with a focus on back-end**
 
-I mainly work with **JavaScript/TypeScript**, and exploring **Go** lang.<br/>
+I mainly work with **JavaScript/TypeScript**, and recently started exploring **Go** lang.<br/>
 I build web servers, apps, APIs and developer tools.<br/>
 I don’t believe in sticking to one language or technology forever,<br/>
 Driven by curiosity, I enjoy exploring and learning new tools, languages, ideas, and approaches.<br/>
@@ -33,10 +33,4 @@ Always ready to adopt new tech stacks whenever the problems I am trying to solve
 
 ### **CI & CD**
 
-![CI & CD](https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulrhmanGoni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=AbdulrhmanGoni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrhmanGoni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![CI & CD](https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark)"new test value"
